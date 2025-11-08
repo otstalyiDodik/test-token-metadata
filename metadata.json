@@ -3,21 +3,14 @@
   "symbol": "TEST",
   "description": "Мой первый тестовый токен на Solana!",
   "image": "https://i.imgur.com/XLCuN0k.png",
-  "external_url": "https://github.com",
+  "external_url": "https://github.com/otstalyiDodik",
   "attributes": [
-    {
-      "trait_type": "Type",
-      "value": "Test"
-    }
+    { "trait_type": "Type", "value": "Test" }
   ],
   "properties": {
     "files": [
-      {
-        "uri": "https://i.imgur.com/XLCuN0k.png",
-        "type": "image/png"
-      }
+      { "uri": "https://i.imgur.com/XLCuN0k.png", "type": "image/png" }
     ],
     "category": "image"
   }
 }
-Add metadata.json
