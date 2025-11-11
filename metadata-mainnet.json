@@ -2,16 +2,17 @@
   "name": "DJTgives",
   "symbol": "DJT",
   "description": "Официальный токен DJTgives — дарим радость на Solana!",
-  "image": "https://i.imgur.com/XLCuN0k.png",
+  "image": "https://raw.githubusercontent.com/otstalyiDodik/test-token-metadata/main/logo.png",
   "external_url": "https://github.com/otstalyiDodik",
-  "animation_url": "https://i.imgur.com/XLCuN0k.png",
+  "animation_url": "https://raw.githubusercontent.com/otstalyiDodik/test-token-metadata/main/banner.png",
   "attributes": [
     { "trait_type": "Type", "value": "Mainnet" },
     { "trait_type": "Creator", "value": "DJT" }
   ],
   "properties": {
     "files": [
-      { "uri": "https://i.imgur.com/XLCuN0k.png", "type": "image/png" }
+      { "uri": "https://raw.githubusercontent.com/otstalyiDodik/test-token-metadata/main/logo.png", "type": "image/png" },
+      { "uri": "https://raw.githubusercontent.com/otstalyiDodik/test-token-metadata/main/banner.png", "type": "image/png" }
     ],
     "category": "image"
   }
